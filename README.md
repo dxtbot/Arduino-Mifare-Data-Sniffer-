@@ -16,6 +16,9 @@ or just to have fun !
 it wil read and store UID and first 5 block's of a Mifare card .
 it wil store it in the Arduino Eeprom mem ,
 i use a second sketch to read out the Eeprom memory and wil give a serial print from the collected data .
-you could use this as a example how to read out certain RFID cards and how to store some data to manipulate .
+you could use this as a example how to read out certain RFID cards and how to store some data to manipulate 
+using a Arduino and a RC522 RFID module.
+
+( PUT THE RC522 ON 5V not on 3V it works better , no need to make al sorts of solutions , just put it on 5V LOL )
 
 
